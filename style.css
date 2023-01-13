@@ -141,7 +141,7 @@ hr{
 }
 .fa-star.empty{
     color: #AEAEAE;
-    /* opacity: 0.25; */
+    
 }
 
 .coourse-duration{
@@ -223,6 +223,13 @@ hr{
     .courses{
             grid-template-columns: repeat(2, 1fr);
             justify-items: center;
+            
         
     }
+
+    .course{
+        margin-bottom: 15px;
+    }
+
+
 }
