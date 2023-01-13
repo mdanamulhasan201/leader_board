@@ -183,6 +183,9 @@ hr{
             flex-direction: column;
             align-items: center;
         }
+        .course{
+            margin-bottom: 15px;
+        }
 
         .courses{
             grid-template-columns: repeat(1, 1fr);
